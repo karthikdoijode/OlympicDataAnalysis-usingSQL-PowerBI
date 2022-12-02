@@ -1,5 +1,5 @@
-# OlympicDataAnalysis-usingSQL-PowerBI
-Exploring and analysing key insights from Olympic data & building an interactive dashboard using SQL and PowerBi
+# OlympicGamesAnalysis-usingSQL-PowerBI
+Exploring and analysing key insights from Olympic games data  & building an interactive dashboard using SQL and PowerBi
 
 #### Objective
 Ensuring that the right data has been selected,transformed and used in the data visualization which is meant to be passed on to the business users. Here We have to visulaize the data which will help readers to understand how countries have performed historically in the summer Olympic games with a possibility to select our own country and also we should find if there is anything interesting about the competitors.
